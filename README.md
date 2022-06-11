@@ -5,4 +5,4 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 
 ![image![Linear_Regression](https://user-images.githubusercontent.com/100485119/173165938-b5078db5-66cd-48cb-85a8-b3f966f479fa.png)
-](https://user-images.githubusercontent.com/100485119/173165817-452d731b-6b1a-44e3-a3df-72d6ee1ab079.png)
+
