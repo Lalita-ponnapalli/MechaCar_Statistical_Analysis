@@ -5,6 +5,9 @@
 The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle.Goal of the Analysis of 1 is to get the Linear Regression to get MPG.
 
 ## ## Linear Regression to Predict MPG
+MechaCar_mpg.csv into Data Frame
+![image](https://user-images.githubusercontent.com/100485119/173210277-bc208df9-3df3-4cb7-b92a-80582fb3050d.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/100485119/173167150-7ab001b8-5aee-4c3c-b7d4-f575d4787275.png)
