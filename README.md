@@ -16,11 +16,12 @@ The MechaCar prototypes were produced using multiple design specifications to id
 ### As per the R value which is 0.7149, this linear model predict mpg of MechaCar prototypes effectively 71%. Which could do better but as it is 71% we can say it is effective.
 
 ## Summary Statistics on Suspension Coils
-
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+### Suspension.csv into table
+![image](https://user-images.githubusercontent.com/100485119/173209208-5a4ce0e3-fce1-4bd3-bc27-e1e0be953f47.png)
+### Lot_summary
 
 ![image](https://user-images.githubusercontent.com/100485119/173209098-0aa9e511-a3a4-4bc5-9586-926d6c07af93.png)
-
+### Total_summary
 
 ![image](https://user-images.githubusercontent.com/100485119/173209096-66a7c6be-ca65-47bc-9fe7-1ed3537e28e1.png)
 
