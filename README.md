@@ -9,7 +9,7 @@ MechaCar_mpg.csv into Data Frame
 ![image](https://user-images.githubusercontent.com/100485119/173210277-bc208df9-3df3-4cb7-b92a-80582fb3050d.png)
 
 
-
+linear regression on all 6 variables and summary of the linear regression model with the intended p-values
 ![image](https://user-images.githubusercontent.com/100485119/173167150-7ab001b8-5aee-4c3c-b7d4-f575d4787275.png)
 
 #### Non-random amount of variance to the mpg values in the dataset on the MPG of the MechaCar are the Vehicle Length and the Ground Clearance.  linear regression model run on these variables against figures for MPG, resulted in p-values of 2.6x10-12 and 5.21x10-8, respectively. The intercept was also statistically significant, indicating that there are likely other factors, not included in our dataset, that have a strong impact on the MPG. resulted in p-values of 2.60e-12 and 5.21e-08 respectively.
