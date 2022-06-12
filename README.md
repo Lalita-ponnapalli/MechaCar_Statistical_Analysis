@@ -31,3 +31,22 @@ MechaCarChallenge.R
 #### Based on the results, the manufacturing lots when grouped together meet the design specification as the variance on PSI is 62.29356.
 #### However if we take varience of the suspensions coils seperately as lot1,lot2,lot3, then individually, lot 1 and lot 2 are meeting the design specifications as they have the variance on PSI as 0.9795918 and 7.4693878 respectively. But, with variance on PSI as 170.2861224, lot 3 does not meet the design specification.
 
+##  T-Tests on Suspension Coils
+#### Suspension Coils Cumulative T-test
+![image](https://user-images.githubusercontent.com/100485119/173209472-107f592d-0bf0-47a0-bd67-3d466095f4e4.png)
+#### T-test on lot1
+![image](https://user-images.githubusercontent.com/100485119/173209487-68c095da-8ebd-4f3d-939c-465b0d4520ca.png)
+#### T-Tests on lot2
+![image](https://user-images.githubusercontent.com/100485119/173209498-95c7c2c9-d8f7-46e1-a921-05257670f850.png)
+#### T-Tests on lot3
+![image](https://user-images.githubusercontent.com/100485119/173209502-6556efc3-16e0-4011-978d-f2e72917e90f.png)
+
+#### A review of the results of the T-test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.0603) for us to reject the null hypothesis.
+A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough (1) for us to reject the null hypothesis.
+A review of the results of the T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low enough (0.6072) for us to reject the null hypothesis.
+A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis. This lot may be need to be discarded, or at least more closely evaluated.
+
+
+
+
+
