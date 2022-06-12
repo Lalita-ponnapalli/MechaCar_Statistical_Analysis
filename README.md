@@ -48,6 +48,27 @@ MechaCarChallenge.R
 
 #### Overall the p value of T-test for Cumulative and individual is not low enough for us to reject the null hypothesis.
 
+### ## Study Design: MechaCar vs Competition
+### Metrics considered by customer when buying a car.
+#### When buying a new car, there are many factors to consider. Custmer consider the resale value, costs of ownership, desired features, incentive and trade-in options, and pricing and financing.
+### In order to test MechaCar against competition, we would like to perform statistical analysis on following metrics in compare to other compitators:
+#### Costs of ownership
+#### Fuel efficiency
+#### Features
+#### Resale Values
+
+### Null and Alternate Hypothesis
+#### H0: MechaCar prototypes'  metrics is similar to competitor's vehicles in the same vehicle class.
+#### Ha: MechaCar prototypes' metrics is statistically above or below that of competitor vehicles.
+### Statistical test  we use to test the hypothesis
+#### We use two T-test samples of the competitor vehicles data to test the hypothesis
+### Data needed to run the statistical test
+#### We would need to gather price of the vehicle's data, Fuel efficiency data, Features data, Resale value data from the carrying compartments of all MechaCar prototypes, as well as from all major competitor vehicles. So that we can perform the statistical analysis on them and see if t-tests is less than 0.05 then we will reject our NULL hypothesis. If T-tests is more than 0.05 we cannot reject our Null hypothesis.
+
+
+
+
+
 
 
 
